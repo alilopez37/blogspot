@@ -3,11 +3,31 @@ body {
     font-size: 12px;
 }
 
+header {
+    background-color: gray;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+header img {
+    width: 100px;
+    height: auto;    
+}
+
 h1 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 50px;
+    font-size: 20px;
+    text-align: center;
 }
 
 span {
     font-weight: 900;    
+}
+
+footer {
+    background-color: gray;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;    
 }
